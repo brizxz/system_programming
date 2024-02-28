@@ -1,0 +1,252 @@
+Manager has been spawned, pid: 51974, secret: 1947956671
+Manager has received spawn Manager abc
+abc has been spawned, pid: 51975, secret: 571715000
+Manager has spawned a new service abc
+Manager has received spawn abc def
+abc has received spawn abc def
+def has been spawned, pid: 51976, secret: 1340798047
+abc has spawned a new service def
+Manager has received spawn def t
+abc has received spawn def t
+def has received spawn def t
+t has been spawned, pid: 51977, secret: 2111298564
+def has spawned a new service t
+Manager has received spawn t u
+abc has received spawn t u
+def has received spawn t u
+t has received spawn t u
+u has been spawned, pid: 51978, secret: 1811057912
+t has spawned a new service u
+Manager has received spawn zisk sksk
+abc has received spawn zisk sksk
+def has received spawn zisk sksk
+t has received spawn zisk sksk
+u has received spawn zisk sksk
+zisk doesn't exist
+Manager has received spawn Manager hah
+hah has been spawned, pid: 51979, secret: 433207734
+Manager has spawned a new service hah
+Manager has received spawn hah owo
+abc has received spawn hah owo
+def has received spawn hah owo
+t has received spawn hah owo
+u has received spawn hah owo
+hah has received spawn hah owo
+owo has been spawned, pid: 51980, secret: 122992879
+hah has spawned a new service owo
+Manager has received spawn owo oro
+abc has received spawn owo oro
+def has received spawn owo oro
+t has received spawn owo oro
+u has received spawn owo oro
+hah has received spawn owo oro
+owo has received spawn owo oro
+oro has been spawned, pid: 51981, secret: 900381356
+owo has spawned a new service oro
+Manager has received kill zisk
+abc has received kill zisk
+def has received kill zisk
+t has received kill zisk
+u has received kill zisk
+hah has received kill zisk
+owo has received kill zisk
+oro has received kill zisk
+zisk doesn't exist
+Manager has received kill hah
+abc has received kill hah
+def has received kill hah
+t has received kill hah
+u has received kill hah
+hah has received kill hah
+hah and 2 child services are killed
+Manager has received kill hah
+abc has received kill hah
+def has received kill hah
+t has received kill hah
+u has received kill hah
+hah doesn't exist
+Manager has received spawn Manager e
+e has been spawned, pid: 51982, secret: 1661358364
+Manager has spawned a new service e
+Manager has received spawn Manager f
+f has been spawned, pid: 51983, secret: 288704130
+Manager has spawned a new service f
+Manager has received spawn e k
+abc has received spawn e k
+def has received spawn e k
+t has received spawn e k
+u has received spawn e k
+e has received spawn e k
+k has been spawned, pid: 51984, secret: 2130453223
+e has spawned a new service k
+Manager has received spawn k o
+abc has received spawn k o
+def has received spawn k o
+t has received spawn k o
+u has received spawn k o
+e has received spawn k o
+k has received spawn k o
+o has been spawned, pid: 51985, secret: 1817049049
+k has spawned a new service o
+Manager has received spawn o p
+abc has received spawn o p
+def has received spawn o p
+t has received spawn o p
+u has received spawn o p
+e has received spawn o p
+k has received spawn o p
+o has received spawn o p
+p has been spawned, pid: 51986, secret: 1511943081
+o has spawned a new service p
+Manager has received spawn k l
+abc has received spawn k l
+def has received spawn k l
+t has received spawn k l
+u has received spawn k l
+e has received spawn k l
+k has received spawn k l
+l has been spawned, pid: 51987, secret: 138993740
+k has spawned a new service l
+Manager has received exchange abc f
+abc has received exchange abc f
+def has received exchange abc f
+t has received exchange abc f
+u has received exchange abc f
+e has received exchange abc f
+k has received exchange abc f
+o has received exchange abc f
+p has received exchange abc f
+l has received exchange abc f
+f has received exchange abc f
+abc has acquired a new secret from f, value: 288704130
+f has acquired a new secret from abc, value: 571715000
+abc and f have exchanged their secrets
+Manager has received exchange u e
+abc has received exchange u e
+def has received exchange u e
+t has received exchange u e
+u has received exchange u e
+e has received exchange u e
+u has acquired a new secret from e, value: 1661358364
+e has acquired a new secret from u, value: 1811057912
+u and e have exchanged their secrets
+Manager has received exchange l abc
+abc has received exchange l abc
+def has received exchange l abc
+t has received exchange l abc
+u has received exchange l abc
+e has received exchange l abc
+k has received exchange l abc
+o has received exchange l abc
+p has received exchange l abc
+l has received exchange l abc
+l has acquired a new secret from abc, value: 288704130
+abc has acquired a new secret from l, value: 138993740
+l and abc have exchanged their secrets
+Manager has received exchange t f
+abc has received exchange t f
+def has received exchange t f
+t has received exchange t f
+u has received exchange t f
+e has received exchange t f
+k has received exchange t f
+o has received exchange t f
+p has received exchange t f
+l has received exchange t f
+f has received exchange t f
+t has acquired a new secret from f, value: 571715000
+f has acquired a new secret from t, value: 2111298564
+t and f have exchanged their secrets
+Manager has received spawn hah f
+abc has received spawn hah f
+def has received spawn hah f
+t has received spawn hah f
+u has received spawn hah f
+e has received spawn hah f
+k has received spawn hah f
+o has received spawn hah f
+p has received spawn hah f
+l has received spawn hah f
+f has received spawn hah f
+hah doesn't exist
+Manager has received exchange Manager u
+abc has received exchange Manager u
+def has received exchange Manager u
+t has received exchange Manager u
+u has received exchange Manager u
+Manager has acquired a new secret from u, value: 1661358364
+u has acquired a new secret from Manager, value: 1947956671
+Manager and u have exchanged their secrets
+Manager has received kill abc
+abc has received kill abc
+abc and 3 child services are killed
+Manager has received spawn Manager abc
+abc has been spawned, pid: 51988, secret: 1988052792
+Manager has spawned a new service abc
+Manager has received spawn hehe abc
+e has received spawn hehe abc
+k has received spawn hehe abc
+o has received spawn hehe abc
+p has received spawn hehe abc
+l has received spawn hehe abc
+f has received spawn hehe abc
+abc has received spawn hehe abc
+hehe doesn't exist
+Manager has received kill hehe
+e has received kill hehe
+k has received kill hehe
+o has received kill hehe
+p has received kill hehe
+l has received kill hehe
+f has received kill hehe
+abc has received kill hehe
+hehe doesn't exist
+Manager has received spawn abc hehe
+e has received spawn abc hehe
+k has received spawn abc hehe
+o has received spawn abc hehe
+p has received spawn abc hehe
+l has received spawn abc hehe
+f has received spawn abc hehe
+abc has received spawn abc hehe
+hehe has been spawned, pid: 51989, secret: 1680209469
+abc has spawned a new service hehe
+Manager has received exchange hehe abc
+e has received exchange hehe abc
+k has received exchange hehe abc
+o has received exchange hehe abc
+p has received exchange hehe abc
+l has received exchange hehe abc
+f has received exchange hehe abc
+abc has received exchange hehe abc
+hehe has received exchange hehe abc
+hehe has acquired a new secret from abc, value: 1988052792
+abc has acquired a new secret from hehe, value: 1680209469
+hehe and abc have exchanged their secrets
+Manager has received exchange e Manager
+e has received exchange e Manager
+e has acquired a new secret from Manager, value: 1661358364
+Manager has acquired a new secret from e, value: 1811057912
+e and Manager have exchanged their secrets
+Manager has received kill oo
+e has received kill oo
+k has received kill oo
+o has received kill oo
+p has received kill oo
+l has received kill oo
+f has received kill oo
+abc has received kill oo
+hehe has received kill oo
+oo doesn't exist
+Manager has received spawn kill Manager
+e has received spawn kill Manager
+k has received spawn kill Manager
+o has received spawn kill Manager
+p has received spawn kill Manager
+l has received spawn kill Manager
+f has received spawn kill Manager
+abc has received spawn kill Manager
+hehe has received spawn kill Manager
+kill doesn't exist
+Manager has received kill Manager
+Manager and 8 child services are killed

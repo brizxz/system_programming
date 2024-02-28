@@ -1,0 +1,33 @@
+spawn Manager abc
+spawn abc def
+spawn def t
+spawn t u
+spawn zisk sksk
+spawn Manager hah
+spawn hah owo
+spawn owo oro
+kill zisk
+kill hah
+kill hah
+spawn Manager e
+spawn Manager f
+spawn e k
+spawn k o
+spawn o p
+spawn k l
+exchange abc f
+exchange u e
+exchange l abc
+exchange t f
+spawn hah f
+exchange Manager u
+kill abc
+spawn Manager abc
+spawn hehe abc
+kill hehe
+spawn abc hehe
+exchange hehe abc
+exchange e Manager
+kill oo
+spawn kill Manager
+kill Manager
